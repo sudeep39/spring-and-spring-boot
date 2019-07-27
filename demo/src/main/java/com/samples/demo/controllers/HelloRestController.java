@@ -1,6 +1,6 @@
-package com.example.demo.controllers;
+package com.samples.demo.controllers;
 
-import com.example.demo.entities.Greeting;
+import com.samples.demo.entities.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

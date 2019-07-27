@@ -1,4 +1,4 @@
-package com.example.demo.entities;
+package com.samples.demo.entities;
 
 import java.util.Objects;
 
